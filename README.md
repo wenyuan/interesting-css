@@ -24,7 +24,7 @@ Fighting Day By Day！
 
 ### HTML 基础
 
-1. [结构化语义化 HTML](https://github.com/winyuan/interesting-css/blob/master/articles/基础系列/HTML基础/1.结构化语义化HTML.md)  
+1. [结构化语义化 HTML](https://github.com/winyuan/interesting-css/blob/master/articles/基础系列/HTML/1.结构化语义化HTML.md)  
 
 ## 专题系列目录
 暂未开始
