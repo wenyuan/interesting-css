@@ -22,9 +22,9 @@ Fighting Day By Day！
 
 ## 二、基础系列目录
 
-### CSS 初级
+### HTML 基础
 
-1. [](https://github.com/winyuan/head-frist-css/blob/master/articles/基础系列/初级/1.CSS是什么.md)  
+1. [结构化语义化 HTML](https://github.com/winyuan/interesting-css/blob/master/articles/基础系列/HTML基础/1.结构化语义化HTML.md)  
 
 ## 专题系列目录
 暂未开始
