@@ -19,11 +19,11 @@ JavaScript 基础学习，进行中 。
 
 Fighting Day By Day！
 
-## 二、HTML系列
+## 二、HTML 系列
 
 1. [结构化语义化 HTML](https://github.com/winyuan/interesting-css/blob/master/articles/HTML系列/1.结构化语义化HTML.md)  
 
-## 三、CSS系列
+## 三、CSS 系列
 
 暂未开始
 
