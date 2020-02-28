@@ -26,6 +26,7 @@ Fighting Day By Day！
 ## 三、CSS 系列
 
 1. [CSS 选择符](https://github.com/winyuan/interesting-css/blob/master/articles/CSS系列/1.CSS选择符.md)  
+2. [伪元素和伪类](https://github.com/winyuan/interesting-css/blob/master/articles/CSS系列/2.伪元素和伪类.md)  
 
 ## 勘误及提问
 如果有疑问或者发现错误，可以在 issues 进行提问或勘误。
