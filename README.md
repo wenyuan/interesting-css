@@ -11,11 +11,11 @@
   <img alt="keywords" src="https://img.shields.io/badge/keywords-css-blue.svg?style=flat-square">
 </p>
 
-> 从基础开始，深入浅出 CSS 知识点。
-> 做一个有扎实基本功的开发者，Day Day Up！
+> 不重复记录 CSS 范畴的基础内容，网上都有，没必要做无用功。
+> 仅记录一些细节和盲区知识点。
 
 ## 一、进度
-JavaScript 基础学习，进行中 。
+啃书中，学习中 。
 
 Fighting Day By Day！
 
